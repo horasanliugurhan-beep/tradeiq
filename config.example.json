@@ -1,0 +1,13 @@
+{
+  "initial_cash": "1000",
+  "fee": "0.001",
+  "slippage": "0.0005",
+  "allocation": "250",
+  "risk": "0.01",
+  "stop_pct": "0.05",
+  "reward_ratio": "2",
+  "daily_limit": "0.02",
+  "min_notional": "5",
+  "quantity_step": "0.000001",
+  "max_positions": 3
+}
